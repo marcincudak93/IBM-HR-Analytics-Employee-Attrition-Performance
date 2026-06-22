@@ -45,6 +45,13 @@ Based on the dashboard findings, organizations should focus on:
 ---
 
 ## 📂 Repository Contents
-* `IBM_HR_Analytics.pbix` - The complete, interactive Power BI Dashboard file.
-* `Queries/` - SQL scripts utilized for initial data profiling.
 * `Screenshots/` - High-resolution captures of the dashboard pages (Demographics, Satisfaction, Workforce Analytics, and Key Insights).
+* * `Queries/` - SQL scripts utilized for initial data profiling.
+
+<img width="1949" height="1093" alt="Ibmhr1" src="https://github.com/user-attachments/assets/4a7aec7a-1536-435a-8e44-8e096c4c1231" />
+<img width="1955" height="1093" alt="Ibmhr2" src="https://github.com/user-attachments/assets/a06f3c58-071c-4854-8424-e0f278716e8f" />
+<img width="1946" height="1091" alt="ibmhr3" src="https://github.com/user-attachments/assets/4b0d2239-e400-4297-8dc2-6b950f7bd0fb" />
+<img width="1966" height="1107" alt="Ibmhr4" src="https://github.com/user-attachments/assets/62af1178-f7e2-409f-ba4a-4c315f2d8466" />
+<img width="1981" height="1288" alt="IBM1" src="https://github.com/user-attachments/assets/d48a907f-9155-4ec3-aeb5-553971e30fa1" />
+<img width="2007" height="1287" alt="IBM2" src="https://github.com/user-attachments/assets/020ac0a8-b9f2-425d-84fe-3640319b5aa0" />
+<img width="1241" height="658" alt="IBM3" src="https://github.com/user-attachments/assets/6b0d4db0-c901-444a-a9a0-90cb10b4e2e3" />
